@@ -1,0 +1,19 @@
+﻿/* EXERCICE 1
+------------------------
+- modifier votre projet Toto pour pouvoir uploader une image pour chaque student (dans update.php si possible, sinon add.php)
+- ne pas accepter les fichiers PHP dans cet upload
+
+EXERCICE++
+------------------------
+- n'autoriser que certaines extensions à être uploader
+	jpg, jpeg, gif, svg, png
+-gestion de la taille
+	
+EXERCICE-extra
+------------------------
+- faire un formulaire à part, où on upload un zip
+- vérifier que c'est bien un zip
+- décompresser le fichier
+- supprimer tout fichier php qui aurait été décompressé
+- afficher à l'écran les fichiers et dossiers décompressés
+*/

@@ -1,0 +1,15 @@
+{
+    "name": "wf3/projet_toto",
+    "description": "simple training manager",
+    "type": "project",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "Salia Bodian",
+            "email": "sbodian@gmail.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.11"
+    }
+}

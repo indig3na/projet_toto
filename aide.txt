@@ -1,0 +1,20 @@
+// Dossiers: img, css, js, inc
+
+// Faire un fichier de config avec des define
+
+/* index.php
+- faire les liens pour chaque session
+*/
+
+/* list.php
+- afficher la liste des students
+- parler du paramètre d'URL pour préciser le student à afficher dans student.php
+*/
+
+/* student.php
+- afficher toutes les informations qu'on a
+*/
+
+/* add.php
+- finir le formulaire d'ajout qu'on a commencé lundi
+*/
